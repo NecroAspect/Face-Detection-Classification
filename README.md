@@ -45,5 +45,8 @@ We welcome contributions to enhance and improve this project. To contribute, ple
 This project was developed by [Your Name] and [Contributor Names], inspired by the need for efficient human face classification solutions.
 
 ## License
+This project is licensed under the [MIT License](LICENSE).
 
-This project is licensed under the [License Name]. See the [LICENSE](LICENSE) file for more details.
+This project is open-source and welcomes contributions from the community. While I have contributed to its development, i do not claim this project's exclusivity to be mine. By contributing to this project, you agree to license your contributions under the same MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+<!-- This project is licensed under the [License Name]. See the [LICENSE](LICENSE) file for more details. -->
+
